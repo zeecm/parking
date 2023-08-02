@@ -1,9 +1,9 @@
 from setuptools import find_packages, setup
 
-PACKAGE = "python_package_template"
+PACKAGE = "zc_parking"
 
 setup(
-    name="python-package-template",
+    name="zc-parking",
     version="0.0.1",
     packages=find_packages(include=PACKAGE),
     install_requires=[
