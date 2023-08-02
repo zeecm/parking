@@ -1,6 +1,6 @@
 .PHONY: install format check test
 
-PACKAGE = "python_package_template"
+PACKAGE = "zc_parking"
 
 install:
 	pip install -e .[dev]
